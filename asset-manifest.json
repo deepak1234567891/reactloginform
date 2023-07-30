@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactloginform/static/css/main.153b14f3.css",
+    "main.js": "/reactloginform/static/js/main.1710e219.js",
+    "index.html": "/reactloginform/index.html",
+    "main.153b14f3.css.map": "/reactloginform/static/css/main.153b14f3.css.map",
+    "main.1710e219.js.map": "/reactloginform/static/js/main.1710e219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153b14f3.css",
+    "static/js/main.1710e219.js"
+  ]
+}
